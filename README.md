@@ -1,7 +1,6 @@
 
 
-
-
+<P>
 # Morse_Code
 
 Morse Code is one of two methods that uses a combination of dots, dashes, and spaces to represent alphabetic characters, numbers, and punctuation.
