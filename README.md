@@ -1,6 +1,5 @@
 
 
-<P>
 # Morse_Code
 
 Morse Code is one of two methods that uses a combination of dots, dashes, and spaces to represent alphabetic characters, numbers, and punctuation.
@@ -23,4 +22,4 @@ versa.
 
 3.As soon as we encounter a space, we seek for the English character that corresponds to the characters that were extracted and add it to a variable that will hold the outcome.
 
-<p>
+
