@@ -23,4 +23,3 @@ versa.
 3.As soon as we encounter a space, we seek for the English character that corresponds to the characters that were extracted and add it to a variable that will hold the outcome.
 
 
-<p>
