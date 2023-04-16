@@ -5,6 +5,7 @@
 Morse Code is one of two methods that uses a combination of dots, dashes, and spaces to represent alphabetic characters, numbers, and punctuation.
 The algorithm is quite basic. Every letter of the English alphabet is replaced by a succession of dots and dashes, or occasionally just a single dot or dash, and vice 
 versa.
+<p>
 
 
 #Encryption 
